@@ -1,0 +1,48 @@
+* {
+    font: serif;
+    color: rgb(5, 5, 5);
+    align-items: top;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: medium;
+    padding: 0px;
+    font-family: sans-serif;
+
+}
+
+#correo {
+    color:rgb(10, 10, 10);
+}
+
+#contraseña {
+    color:rgb(10, 10, 10);
+}   
+
+.form-estilo {
+    justify-content: center;
+    display: flex;
+    background-color: #089cff;
+    padding: 25px;
+    border-radius: 10px;
+    height: 60vh;
+ 
+}
+
+.estilo-btn-inc {
+    margin: 5px;
+    width: 125px;
+    height: 25px;
+    cursor: pointer;
+    margin: auto;
+    padding: 10px;
+    border-radius: 32px;
+    font-size: 1em;
+    border: none;
+    background-color: #25aadf;
+    align-content: center;
+}
